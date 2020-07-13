@@ -1,0 +1,13 @@
+{
+    "name": "atha/c++",
+    "description": "Just C++ code",
+    "keywords": ["c++"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
