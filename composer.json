@@ -1,7 +1,7 @@
 {
-    "name": "atha/c++",
+    "name": "atha/c-plus-plus",
     "description": "Just C++ code",
-    "keywords": ["c++"],
+    "keywords": ["cpp", "c-plus-plus"],
     "license": "None",
     "authors": [
         {
